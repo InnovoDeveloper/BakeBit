@@ -3,7 +3,7 @@
 # =========================
 Software/Python/__pycache__
 Software/Python/.idea
-WiringNP
+# WiringNP (commented out - we need this directory!)
 
 # Vim backup
 README.md~
