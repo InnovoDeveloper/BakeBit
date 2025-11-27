@@ -1,0 +1,3 @@
+[submodule "WiringNP"]
+	path = WiringNP
+	url = https://github.com/friendlyarm/WiringNP.git
